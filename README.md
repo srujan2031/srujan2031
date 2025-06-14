@@ -33,7 +33,7 @@ Whether it's designing scalable ETL pipelines with **AWS & PySpark**, orchestrat
 - 🧠 **100th state rank**, **1695th international rank** – International Olympiad in Mathematics (2016)  
 - 🧮 **182nd rank** – International Master Mathematics Olympiad (2015)  
 - 💡 **2nd Place** – Enigma Tech Tatva (2022) for business model innovation  
-- 🏅 **Top 2%** – Among 1.2M+ candidates in JEE Main (India’s national engineering entrance)  
+- 🏅 **Top percentile** – Among 1.2M+ candidates in JEE Main (India’s national engineering entrance)  
 - ⚙️ **Automated ingestion** of 10K+ shipment records/day using AWS Lambda → 90% manual effort reduced  
 - 💾 **Reduced S3 storage cost by 65%**, improved query performance by 70% using Athena CTAS + Parquet  
 - 📈 Enabled **real-time analytics** using Kafka, Glue, Athena, and Power BI  
