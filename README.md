@@ -55,8 +55,8 @@ Whether it's designing scalable ETL pipelines with **AWS & PySpark**, orchestrat
 
 ## 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://linkedin.com/in/srujanchinta)  
-- 💻 [GitHub](https://github.com/SrujanChinta)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/chinta-srujan-882170191/)  
+- 💻 [GitHub](https://github.com/SrujanChinta2031)  
 - ✉️ [Email](mailto:chintasrujan07@gmail.com)
 
 ---
