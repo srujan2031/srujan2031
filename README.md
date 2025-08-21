@@ -1,31 +1,10 @@
 # 👋 Hi there, I'm Srujan!
 
-I'm a passionate **Data Engineer & AI enthusiast** who loves bridging raw data and intelligent systems. From building real-time streaming pipelines to deploying LLM-powered optimization agents, I thrive at the intersection of **data, cloud, and AI**.
-
-Whether it's designing scalable ETL pipelines with **AWS & PySpark**, orchestrating transformations with **dbt**, or building conversational agents using **LangChain + LLaMA 3**, I aim to create data products that are smart, efficient, and impactful.
+I am a Data Scientist and Machine Learning Engineer specializing in MLOps. My passion lies in building end-to-end solutions that leverage AI to solve complex, real-world problems, from supply chain optimization to sentiment analysis. I am experienced in the full project lifecycle, including data exploration, model development, scalable deployment, and continuous integration..
 
 ---
 
-## 🧠 About Me
 
-🎓 B.Tech in Computer Science @ **NIT Calicut**  
-📚 M.S. in Computer Science @ **UT Arlington** (GPA: 3.90/4.0)  
-💼 Former **Data Engineer** at Ceyline Shipping (1.5+ yrs experience)  
-🧪 Current **Research Assistant** at UTA – Building AI-driven supply chain tools  
-🌍 Building tools that combine **Data Engineering + LLMs**
-
----
-
-## 🚀 Highlights
-
-- ⚙️ Designed scalable ETL pipelines using **AWS Lambda, Glue, Athena, RDS, S3**  
-- 🧱 Architected **Medallion Data Lake** using Azure Data Factory, Databricks, and Synapse  
-- 🎬 Built ELT data mart with **dbt + Snowflake** for Netflix analytics (CI-tested, modular)  
-- 🤖 Created LLM-powered chatbot using **LangChain + LLaMA 3** for shipping optimization  
-- 🧪 Implemented **14+ dbt tests**, schema checks, streaming with Kafka + PySpark  
-- ⏱️ Reduced query time by **50%** using Spark & SQL optimizations  
-
----
 
 ## 🏆 Achievements
 
@@ -34,11 +13,6 @@ Whether it's designing scalable ETL pipelines with **AWS & PySpark**, orchestrat
 - 🧮 **182nd rank** – International Master Mathematics Olympiad (2015)  
 - 💡 **2nd Place** – Enigma Tech Tatva (2022) for business model innovation  
 - 🏅 **Top percentile** – Among 1.2M+ candidates in JEE Main (India’s national engineering entrance)  
-- ⚙️ **Automated ingestion** of 10K+ shipment records/day using AWS Lambda → 90% manual effort reduced  
-- 💾 **Reduced S3 storage cost by 65%**, improved query performance by 70% using Athena CTAS + Parquet  
-- 📈 Enabled **real-time analytics** using Kafka, Glue, Athena, and Power BI  
-- 📬 Automated ETL with **Airflow sensors + Email alerts**, cutting manual checks by 80%
-
 ---
 
 ## 🧰 Tech Stack
