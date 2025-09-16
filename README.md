@@ -5,10 +5,13 @@
 </div>
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="https://srujan-chinta-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chinta-srujan-882170191/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:chintasrujan07@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
@@ -19,61 +22,83 @@
 
 I architect and deploy end-to-end AI and MLOps solutions that transform complex data into scalable, automated systems. My work bridges the gap between data science and robust software engineering, delivering tangible outcomes like a **15% cost reduction** for a Fortune 500 client through a custom supply chain optimization pipeline.
 
-- 🎓 I'm currently pursuing my **Master's in Computer Science** at the **University of Texas at Arlington** (Graduating 2025).
+- 🎓 I'm currently pursuing my **Master's in Computer Science** at the **University of Texas at Arlington** (Expected Graduation: 2025).
 - 🔭 I’m passionate about building scalable data pipelines, automating ML workflows, and exploring the frontiers of Large Language Models (LLMs).
 - 🌱 I’m always learning and currently diving deeper into distributed systems and real-time data processing.
-- 💬 Ask me about **MLOps, NLP, Big Data Architecture, or Supply Chain Optimization**.
+- 💬 Ask me about **MLOps, Generative AI, Big Data Architecture, or Supply Chain Optimization**.
 
 ---
 
-### 🛠️ Technical Proficiencies
+### 💡 Core Competencies
 
-My technical arsenal is built on a foundation of modern, scalable technologies.
+| Data Science & Analytics | ML & AI Engineering | Business & Strategy |
+| :--- | :--- | :--- |
+| Predictive Modeling | End-to-End MLOps | Business Intelligence (BI) |
+| Statistical Analysis | Generative AI / RAG | Product Metrics & KPIs |
+| Time Series Forecasting | NLP & Deep Learning | A/B & Hypothesis Testing |
+| Causal Inference | Cloud Data Engineering | Data-Driven Decision Making |
+
+---
+
+### 🛠️ Technical Stack
 
 <table>
   <tr>
-    <td align="center"><strong>Cloud Platforms</strong></td>
+    <td align="center"><strong>Programming & Data</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Data & ETL</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
-      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
-      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>AI / ML & MLOps</strong></td>
+    <td align="center"><strong>Machine Learning & AI</strong></td>
     <td>
       <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
       <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=hugging-face&logoColor=black" alt="Hugging Face"/>
-      <img src="https://img.shields.io/badge/LangChain-050C1D?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps</strong></td>
+    <td align="center"><strong>Generative AI</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/LangChain-050C1D?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+      <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="ElasticSearch"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>MLOps & Deployment</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
       <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <img src="https://img.shields.io/badge/MLflow-0096FB?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases</strong></td>
+    <td align="center"><strong>Cloud & Data Engineering</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Analytics & Visualization</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+      <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
+      <img src="https://img.shields.io/badge/Amazon_QuickSight-232F3E?style=for-the-badge&logo=amazon-quicksight&logoColor=white" alt="QuickSight"/>
     </td>
   </tr>
 </table>
@@ -93,10 +118,10 @@ My technical arsenal is built on a foundation of modern, scalable technologies.
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Srujan's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=srujan2031&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="Srujan's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan2031&layout=compact&theme=vision-friendly-dark" alt="Top Languages" width="48%"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=vision-friendly-dark" alt="GitHub Streak" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujan2031&theme=vision-friendly-dark" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
