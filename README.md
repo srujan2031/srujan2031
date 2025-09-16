@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi there 👋, I'm Srujan Chinta</h1>
-  <h3 align="center">A Data Scientist & MLOps Architect building production-grade AI systems that drive measurable business value.</h3>
+  <h3 align="center">A Data Scientist & ML Engineer building production-grade AI systems that drive measurable business value.</h3>
 </div>
 
 <div align="center">
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I architect and deploy end-to-end AI and MLOps solutions that transform complex data into scalable, automated systems. My work bridges the gap between data science and robust software engineering, delivering tangible outcomes like a **15% cost reduction** for a Fortune 500 client through a custom supply chain optimization pipeline.
+I architect and deploy end-to-end AI and MLOps solutions that transform complex data into scalable, automated systems. My work bridges the gap between data science and robust software engineering, delivering tangible outcomes like a **15% cost reduction** for an enterprise client through a custom supply chain optimization pipeline.
 
 - 🎓 I'm currently pursuing my **Master's in Computer Science** at the **University of Texas at Arlington** (Expected Graduation: 2025).
 - 🔭 I’m passionate about building scalable data pipelines, automating ML workflows, and exploring the frontiers of Large Language Models (LLMs).
@@ -107,7 +107,7 @@ I architect and deploy end-to-end AI and MLOps solutions that transform complex 
 
 ### 🏆 Key Achievements & Recognition
 
--   🚀 **Lead Developer:** Built a scalable supply chain optimization pipeline, **reducing costs by 15%** for a Fortune 500 client.
+-   🚀 **Lead Developer:** Built a scalable supply chain optimization pipeline, **reducing costs by 15%** for an enterprise client.
 -   🏆 **Certificate of Distinction:** Honored for outstanding research, leadership, and community impact at [UT Arlington](https://www.uta.edu/) (2025).
 -   🏅 **Top 1% Rank:** Outperformed 1.2M+ candidates in JEE Main, one of the world's most competitive engineering entrance exams.
 -   🧠 **Global Rank 1695th:** International Olympiad in Mathematics (2016), showcasing elite foundational quantitative skills.
